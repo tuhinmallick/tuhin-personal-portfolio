@@ -64,14 +64,6 @@ const About = () => {
                   My job is to help others make the right decision - data driven decisions. Finding patterns nobody else sees is the challenge to me. 
                   Better?
                   </p>
-                  <p>
-                  [Slightly. How do you do that exactly?]
-                  </p>
-                  <p>
-                  💙 My approach in each of my roles has centred on an intrinsic flair for problem solving, and time management to drive consistent top-line improvements. 
-                  I enthusiastically use my pragmatic knowledge of applicable skills, methods and 
-                  practices employing meticulous attention to detail in working successfully amidst cross-functional teams with a proactive approach and learned significantly from diverse teams and under highly erudite engineers. Not to forget a pinch of data and a lot of analysis !
-                  </p>
                 </div>
                 <div className="info-list">
                   <div className="row">
