@@ -1,7 +1,10 @@
 {
-  "name": "nairo",
-  "version": "1.1.7",
+  "name": "tuhin-personal-portfolio",
+  "version": "0.1.0",
   "private": true,
+  "homepage": "https://tuhin-personal-portfolio.herokuapp.com/dark-particle-effect",
+  "main": "server.js",
+  "engines": { "npm": "6.14.4", "node": "10.19.0" },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -32,7 +35,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "heroku-postbuild": "npm install",
+    "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
