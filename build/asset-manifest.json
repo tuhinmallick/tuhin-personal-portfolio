@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c42bea4.chunk.css",
-    "main.js": "/static/js/main.835499e7.chunk.js",
-    "main.js.map": "/static/js/main.835499e7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7b815a78.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7b815a78.js.map",
-    "static/css/2.6ab0767a.chunk.css": "/static/css/2.6ab0767a.chunk.css",
-    "static/js/2.d4255eaa.chunk.js": "/static/js/2.d4255eaa.chunk.js",
-    "static/js/2.d4255eaa.chunk.js.map": "/static/js/2.d4255eaa.chunk.js.map",
-    "static/js/3.33c804b4.chunk.js": "/static/js/3.33c804b4.chunk.js",
-    "static/js/3.33c804b4.chunk.js.map": "/static/js/3.33c804b4.chunk.js.map",
-    "static/js/4.bae9bc70.chunk.js": "/static/js/4.bae9bc70.chunk.js",
-    "static/js/4.bae9bc70.chunk.js.map": "/static/js/4.bae9bc70.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.6ab0767a.chunk.css.map": "/static/css/2.6ab0767a.chunk.css.map",
-    "static/css/main.3c42bea4.chunk.css.map": "/static/css/main.3c42bea4.chunk.css.map",
-    "static/js/2.d4255eaa.chunk.js.LICENSE.txt": "/static/js/2.d4255eaa.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/static/media/et-line.d59b2385.woff",
-    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+    "main.css": "/dark-particle-effect/static/css/main.02354c7d.chunk.css",
+    "main.js": "/dark-particle-effect/static/js/main.f85942e9.chunk.js",
+    "main.js.map": "/dark-particle-effect/static/js/main.f85942e9.chunk.js.map",
+    "runtime-main.js": "/dark-particle-effect/static/js/runtime-main.69069ac8.js",
+    "runtime-main.js.map": "/dark-particle-effect/static/js/runtime-main.69069ac8.js.map",
+    "static/css/2.057c0eb5.chunk.css": "/dark-particle-effect/static/css/2.057c0eb5.chunk.css",
+    "static/js/2.d4255eaa.chunk.js": "/dark-particle-effect/static/js/2.d4255eaa.chunk.js",
+    "static/js/2.d4255eaa.chunk.js.map": "/dark-particle-effect/static/js/2.d4255eaa.chunk.js.map",
+    "static/js/3.33c804b4.chunk.js": "/dark-particle-effect/static/js/3.33c804b4.chunk.js",
+    "static/js/3.33c804b4.chunk.js.map": "/dark-particle-effect/static/js/3.33c804b4.chunk.js.map",
+    "static/js/4.bae9bc70.chunk.js": "/dark-particle-effect/static/js/4.bae9bc70.chunk.js",
+    "static/js/4.bae9bc70.chunk.js.map": "/dark-particle-effect/static/js/4.bae9bc70.chunk.js.map",
+    "index.html": "/dark-particle-effect/index.html",
+    "static/css/2.057c0eb5.chunk.css.map": "/dark-particle-effect/static/css/2.057c0eb5.chunk.css.map",
+    "static/css/main.02354c7d.chunk.css.map": "/dark-particle-effect/static/css/main.02354c7d.chunk.css.map",
+    "static/js/2.d4255eaa.chunk.js.LICENSE.txt": "/dark-particle-effect/static/js/2.d4255eaa.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/dark-particle-effect/static/media/et-line.d59b2385.woff",
+    "static/media/slick-theme.css": "/dark-particle-effect/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b815a78.js",
-    "static/css/2.6ab0767a.chunk.css",
+    "static/js/runtime-main.69069ac8.js",
+    "static/css/2.057c0eb5.chunk.css",
     "static/js/2.d4255eaa.chunk.js",
-    "static/css/main.3c42bea4.chunk.css",
-    "static/js/main.835499e7.chunk.js"
+    "static/css/main.02354c7d.chunk.css",
+    "static/js/main.f85942e9.chunk.js"
   ]
 }
