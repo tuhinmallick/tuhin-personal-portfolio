@@ -63,6 +63,7 @@ const AboutTwo = () => {
                   🤓 Yeah, haha, sorry about the Technical jargon. 
                   My job is to help others make the right decision - data driven decisions. Finding patterns nobody else sees is the challenge to me. 
                   Better?
+                  </p>
                  </div>
                 <div className="info-list">
                   <div className="row">
