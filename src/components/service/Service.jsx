@@ -1,15 +1,16 @@
 import React from "react";
+import { FaBeer } from 'react-icons/fa';
 
 const ServiceContent = [
   {
-    icon: "icon-home",
+    icon: "icon-FaBeer",
     title: "Machine Learning",
     descriptions: `Need to make predictions based on historical data? Or want to explore your data for certain patterns?
     I am passionate about learning the theory that is pushing the cutting edge of ML, 
     both supervised and unsupervised algorithms. `,
   },
   {
-    icon: "icon-desktop",
+    icon: "fa-FaBeer",
     title: "Data Science and analysis",
     descriptions: `A picture says more than a thousand words..but what exactly do you want to visualize?
     I have seen a lot of examples of very good bus also very bad visualizations. `,
@@ -49,6 +50,7 @@ export default function Service() {
             <div className="feature-box-01">
               <div className="icon" >
                 <i className={`icon ${val.icon}`}></i>
+                {/* < FaBeer/> */}
               </div>
               <div className="feature-content">
                 <h5>{val.title}</h5>

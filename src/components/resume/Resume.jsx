@@ -42,19 +42,22 @@ const resumeContent = [
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    passingYear: "2020-2023",
+    degreeTitle: "Double MSc in Computational Engineering",
+    instituteName: "FAU Erlangen-Nürnberg, Germany",
+    instituteLink: "https://www.fau.eu/"
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    passingYear: "2022-2023",
+    degreeTitle: "MSc in Computational Sciences",
+    instituteName: "USI, Lugano, Switzerland",
+    instituteLink: "https://www.usi.ch/it"
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    passingYear: "2014-2018",
+    degreeTitle: "Bachelor of Technology - BTech",
+    instituteName: "Heritage Institute of Technology",
+    instituteLink: "https://www.heritageit.edu/"
   },
 ];
 
@@ -113,7 +116,9 @@ const Resume = () => {
                   <li key={i}>
                     <span>{val.passingYear}</span>
                     <h6>{val.degreeTitle} </h6>
+                    <a href = {val.instituteLink} > 
                     <p>{val.instituteName}</p>
+                    </a>
                   </li>
                 ))}
               </ul>

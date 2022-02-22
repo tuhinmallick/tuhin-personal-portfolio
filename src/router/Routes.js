@@ -19,7 +19,7 @@ const Routes = () => {
       <Router>
         <ScrollTopBehaviour />
         <Switch>
-          <Route exact path="/" component={Preview} />
+          <Route path="/preview" component={Preview} />
           <Route path="/home-light" component={HomeLight} />
           <Route path="/home-light-animation" component={HomeLightAnimation} />
           <Route
@@ -30,7 +30,7 @@ const Routes = () => {
             path="/home-light-sidebar-two"
             component={HomeLightSidebarTwo}
           />
-          <Route path="/dark-particle-effect" component={HomeDarkParticles} />
+          <Route exact path="/" component={HomeDarkParticles} />
           <Route
             path="/home-light-professional"
             component={LightProfessionalAnimation}
