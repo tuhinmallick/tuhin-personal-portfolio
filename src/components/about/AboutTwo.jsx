@@ -150,7 +150,7 @@ const AboutTwo = () => {
           {/* End separated */}
 
           <div className="title">
-            <h3>Awards.</h3>
+            <h3>Certifications.</h3>
           </div>
           <Awards />
           {/* End Awards */}
