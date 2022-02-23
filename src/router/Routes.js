@@ -30,7 +30,7 @@ const Routes = () => {
             path="/home-light-sidebar-two"
             component={HomeLightSidebarTwo}
           />
-          <Route exact path="/dark-particle-effect" component={HomeDarkParticles} />
+          <Route exact path="/" component={HomeDarkParticles} />
           <Route
             path="/home-light-professional"
             component={LightProfessionalAnimation}
