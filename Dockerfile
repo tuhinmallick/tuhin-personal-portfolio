@@ -1,17 +1,19 @@
-# pull the official base image
-FROM node:10.19.0 alpine AS development
-# set working direction
+# Step 1 : pull the official base image
+FROM node:10.19.0-alpine AS development
+# Step 2 : set working direction
 WORKDIR /app
-# add `/app/node_modules/.bin` to $PATH
+# Step 3 : add `/app/node_modules/.bin` to $PATH
 ENV PATH /app/node_modules/.bin:$PATH
-# install application dependencies
+# Step 4 : install application dependencies
 COPY package.json ./
+# Step 5 : 
 COPY package-lock.json ./
-RUN npm i
-# add app
-COPY . ./
-# start app
-CMD ["npm", "start"]
+# Step 6 : 
+# RUN npm install --silent
+# # Step 7 :  add app
+# COPY . ./
+# # Step 8 :  start app
+# CMD ["npm", "start"]
 
 
 
@@ -19,7 +21,7 @@ CMD ["npm", "start"]
 
 
 # # pull the official base image
-# FROM node:10.19.0 alpine AS builder
+# FROM node:10.19.0-alpine AS builder
 # # set working direction
 # WORKDIR /app
 # # add `/app/node_modules/.bin` to $PATH
