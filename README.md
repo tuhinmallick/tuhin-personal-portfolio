@@ -26,6 +26,7 @@ I wanted to have a space to showcase my projects with references to their code, 
 2. **TODO**: Change color scheme
 3. **TODO**: Add some JavaScript to make the look nicer
 
+
 ## Instructions <a name="instructions"></a>
 
 ### Create Database for Content <a name="create_database"></a>
