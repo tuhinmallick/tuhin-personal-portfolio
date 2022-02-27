@@ -1,7 +1,6 @@
 # Portfolio Website for my Data Science Projects
 This project showcases my data science projects on a deployed website.
 
-
 **05/25/2021:** I linked the latest blog post and project on the index page to the database and removed the hard-coded text from the HTML. The  maximum content width was limited by putting everything into containers.
 
 ## Table of Contents
