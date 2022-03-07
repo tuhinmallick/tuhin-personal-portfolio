@@ -7,6 +7,7 @@ This project showcases my data science projects on a deployed website.
 
 
 
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
@@ -41,6 +42,7 @@ If you want to update the database, you need to connect to the remote database i
 3. Install PostgreSQL on your computer locally and update your PATH environment variable to add the bin directory of your Postgres installation. (More details [here](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup))
 4. Get the database credentials by running `heroku pg:credentials:url -a <your app name>`. Copy the Connection URL.
 5. Type into your shell `$ export DATABASE_URL=postgres://<Connection URL>` if you're using a Mac or Linux and `$ set DATABASE_URL=postgres://<Connection URL>` if you're using Windows. (See the documentation [here](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup))
+
 
 Now your local environment has the DATABASE_URL for your remote Heroku PostgreSQL database saved and the code in app.py can access this database from your local computer.
 
