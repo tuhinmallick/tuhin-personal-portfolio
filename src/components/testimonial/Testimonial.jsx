@@ -32,9 +32,7 @@ export default function SimpleSlider() {
   const TestimonilContent = [
     {
       imageName: "team-1",
-      desc: `  Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
+      desc: ` From the moment you meet Tuhin, you know he is there to do a great job. He has had to deal with an enormous amount of stressful situations while juggling so many responsibilities that were thrown at him as he was growing within Tata Consultancy Services and yet, he was still there helping us whenever we were in tight spots with our deadlines. Tuhin exudes confidence because he gives a 110% of himself to achieve his goals, no matter how far out of reach they may seem. Team player, go-getter, not to forget his strong Java web development abilities, that's Tuhin in a nutshell.`,
       reviewerName: "Nancy Byers",
       designation: "CEO at ib-themes",
     },
