@@ -21,7 +21,7 @@ const About = () => {
                 </div>
                 {/* End img */}
                 <div className="info">
-                  <p>Ux/Ui Designer</p>
+                  <p>Data Science Generalist</p>
                   <h3>Tuhin Mallick</h3>
                 </div>
                 {/* End info */}
