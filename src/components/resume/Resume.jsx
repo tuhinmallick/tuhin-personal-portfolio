@@ -5,7 +5,7 @@ const resumeContent = [
   {
     jobPosition: `Data Scientist`,
     jobType: `BASF | Mannheim, Germany`,
-    jobDuration: `Nov 2021 - Present`,
+    jobDuration: `Nov 2021 - August 2022`,
     timeDuraton: `Intern`,
     compnayName: "Chemovator GmbH",
     jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
