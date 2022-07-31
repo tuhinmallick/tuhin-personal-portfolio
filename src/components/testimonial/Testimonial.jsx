@@ -47,8 +47,12 @@ Tuhin would be an asset to any team remotely having to deal with AI.`,
       designationLink: "https://forecasty.ai/teams/",
     },
     {
-      imageName: "Sumanto dutta chowdhury",
-      desc: ` From the moment you meet Tuhin, you know he is there to do a great job. He has had to deal with an enormous amount of stressful situations while juggling so many responsibilities that were thrown at him as he was growing within Tata Consultancy Services and yet, he was still there helping us whenever we were in tight spots with our deadlines. Tuhin exudes confidence because he gives a 110% of himself to achieve his goals, no matter how far out of reach they may seem. Team player, go-getter, not to forget his strong Java web development abilities, that's Tuhin in a nutshell.`,
+      imageName: "Dr. Pascal Ochs",
+      desc: ` Tuhin has demonstrated to be a valuable team player and displayed great dedication delivering innovative solutions to our customers. He often went above and beyond, going out of his way to deliver forecasting solutions to our customers.
+
+He always provided a fresh take on data science having a wealth of knowledge of different tools that go beyond the typical data scientist. He has a keen eye for automation making the live easier for the team and the customer while still enabling consistent service operation.
+
+Overall, Tuhin was a great asset in our data science team.`,
       reviewerName: "Dr. Pascal Ochs",
       reviewerLink: "https://www.linkedin.com/in/pascalochs/",
       designation: "Data Scientist & Product Manager at Forecasty.AI",
