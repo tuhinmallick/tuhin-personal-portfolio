@@ -6,6 +6,7 @@ const sliderContent = {
   name: "Tuhin Mallick",
   description: ` My job is to help others make the right decision - data driven decisions. Finding patterns nobody else sees is the challenge to me.`,
   btnText: " Download CV",
+  btnText2: " Hire me ",
 };
 
 const SliderTwo = () => {
@@ -157,6 +158,10 @@ const SliderTwo = () => {
                   >
                     {sliderContent.btnText}
                   </a>
+                 <a className="px-btn px-btn-white" href="#contactus">
+                    {sliderContent.btnText2}
+                  </a>
+                </div>
                 </div>
               </div>
             </div>
