@@ -42,12 +42,15 @@ He was a fountain of ideas.
 
 Tuhin would be an asset to any team remotely having to deal with AI.`,
       reviewerName: "Dr. Ralph Debusmann",
+      reviewerLink: "https://www.linkedin.com/in/ralph-debusmann-63204675/",
       designation: "Co-Founder and Chief Technical Officer at Forecasty.AI",
+      designationLink: "https://forecasty.ai/teams/",
     },
     {
       imageName: "Sumanto dutta chowdhury",
       desc: ` From the moment you meet Tuhin, you know he is there to do a great job. He has had to deal with an enormous amount of stressful situations while juggling so many responsibilities that were thrown at him as he was growing within Tata Consultancy Services and yet, he was still there helping us whenever we were in tight spots with our deadlines. Tuhin exudes confidence because he gives a 110% of himself to achieve his goals, no matter how far out of reach they may seem. Team player, go-getter, not to forget his strong Java web development abilities, that's Tuhin in a nutshell.`,
       reviewerName: "Dr. Pascal Ochs",
+      reviewerLink: "https://www.linkedin.com/in/pascalochs/",
       designation: "Data Scientist & Product Manager at Forecasty.AI",
     },
     {
@@ -90,13 +93,18 @@ Tuhin would be an asset to any team remotely having to deal with AI.`,
                 <p>{val.desc}</p>
                 <h6>
                   <a
-                                href={val.awardLink}
+                                href={val.reviewerLink}
                                 target="_blank"
                                 rel="noreferrer"
                               >{val.reviewerName}
                               </a>
                  </h6>
-                <span>{val.designation}</span>
+                <span><a
+                                href={val.designationLink}
+                                target="_blank"
+                                rel="noreferrer"
+                              >{val.designation}
+                              </a></span>
               </div>
             </div>
           </div>
