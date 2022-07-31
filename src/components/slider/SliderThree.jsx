@@ -159,6 +159,19 @@ const SliderTwo = () => {
                     {sliderContent.btnText}
                   </a>
                 </div>
+                <div
+                  className="mt-4"
+                  data-aos="fade-up"
+                  data-aos-duration="1200"
+                  data-aos-delay="400"
+                >
+                  <a
+                    className="px-btn px-btn-white"
+                    href="#contactus"
+                  >
+                    {sliderContent.btnText2}
+                  </a>
+                </div>
                 </div>
               </div>
             </div>
