@@ -163,7 +163,6 @@ const SliderTwo = () => {
               </div>
             </div>
           </div>
-        </div>
         {/* End Container*/}
       </section>
 
