@@ -12,7 +12,7 @@ import Footer from "../../components/footer/Footer";
 import useDocumentTitle from "../../components/useDocumentTitle";
 
 const HomeLightSidebarTwo = () => {
-  useDocumentTitle("Nairo || Sidebar Two React Personal Portfolio Template");
+  useDocumentTitle(" Tuhin Mallick || Personal Portfolio");
   return (
     <div className="main-left theme-dark">
       <Header />
