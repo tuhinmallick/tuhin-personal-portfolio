@@ -14,7 +14,7 @@ const AboutTwo = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="img/about/rsz_about-me.jpg" alt="about" />
+                    <img src="img/about/rsz_about-me.jpg" alt="Tuhin Mallick" />
                   </div>
                   <Social />
                   {/* End social icon */}
