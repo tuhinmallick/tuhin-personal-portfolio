@@ -1,18 +1,18 @@
 import React from "react";
 import {
   FaFacebookF,
-  FaTwitter,
+  FaMedium,
   FaInstagram,
   FaLinkedinIn,
-  FaPinterestP,
+  FaGithub,
 } from "react-icons/fa";
 
 const SocialShare = [
-  { Social: <FaFacebookF />, link: "https://www.facebook.com/" },
-  { Social: <FaTwitter />, link: "https://twitter.com/" },
+  { Social: <FaFacebookF />, link: "https://www.facebook.com/tuhin96/" },
+  { Social: <FaMedium />, link: "https://medium.com/@tuhin.mallick" },
   { Social: <FaInstagram />, link: "https://www.instagram.com/" },
-  { Social: <FaLinkedinIn />, link: "https://linkedin.com/" },
-  { Social: <FaPinterestP />, link: "https://www.pinterest.com/" },
+  { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/tuhinmallick/" },
+  { Social: <FaGithub />, link: "https://github.com/tuhinmallick" },
 ];
 
 const Footer = () => {
@@ -35,7 +35,7 @@ const Footer = () => {
           <p>
             © {new Date().getFullYear()} copyright{" "}
             <a
-              href="https://themeforest.net/user/ib-themes/portfolio"
+              href="https://www.linkedin.com/in/tuhinmallick/"
               target="_blank"
               rel="noreferrer"
             >
