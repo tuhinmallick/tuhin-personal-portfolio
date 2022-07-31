@@ -5,7 +5,7 @@ import Particles from "react-tsparticles";
 const sliderContent = {
   name: "Tuhin Mallick",
   description: ` My job is to help others make the right decision - data driven decisions. Finding patterns nobody else sees is the challenge to me.`,
-  btnText: " Donwload CV",
+  btnText: " Download CV",
 };
 
 const SliderTwo = () => {
@@ -152,7 +152,7 @@ const SliderTwo = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
+                    href="img/resume.pdf"
                     download
                   >
                     {sliderContent.btnText}
