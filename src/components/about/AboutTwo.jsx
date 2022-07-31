@@ -14,7 +14,7 @@ const AboutTwo = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="img/about/about-me-2.jpg" alt="about" />
+                    <img src="img/about/rsz_about-me.jpg" alt="about" />
                   </div>
                   <Social />
                   {/* End social icon */}
@@ -83,7 +83,7 @@ const AboutTwo = () => {
                         </li>
                         <li>
                           <label>Address: </label>
-                          <span>Mannheim, Germany</span>
+                          <span>Lugano, Switzerland</span>
                         </li>
                       </ul>
                     </div>
