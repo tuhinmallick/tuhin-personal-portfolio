@@ -158,9 +158,6 @@ const SliderTwo = () => {
                   >
                     {sliderContent.btnText}
                   </a>
-                 <a className="px-btn px-btn-white" href="#contactus">
-                    {sliderContent.btnText2}
-                  </a>
                 </div>
                 </div>
               </div>
