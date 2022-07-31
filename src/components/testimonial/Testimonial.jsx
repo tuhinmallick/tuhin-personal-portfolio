@@ -88,7 +88,14 @@ Tuhin would be an asset to any team remotely having to deal with AI.`,
               </div>
               <div className="media-body">
                 <p>{val.desc}</p>
-                <h6>{val.reviewerName}</h6>
+                <h6>
+                  <a
+                                href={val.awardLink}
+                                target="_blank"
+                                rel="noreferrer"
+                              >{val.reviewerName}
+                              </a>
+                 </h6>
                 <span>{val.designation}</span>
               </div>
             </div>
