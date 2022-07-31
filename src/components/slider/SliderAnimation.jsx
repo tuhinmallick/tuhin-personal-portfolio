@@ -9,7 +9,7 @@ const conctInfo = {
 const sliderContent = {
   name: "Tuhin Mallick",
   description: ` My job is to help others make the right decision - data driven decisions. Finding patterns nobody else sees is the challenge to me.`,
-  btnText: " Donwload CV",
+  btnText: " Download CV",
 };
 
 const Slider = () => {
@@ -19,8 +19,8 @@ const Slider = () => {
       <section id="home" className="home-banner">
         <div className="hb-top-fixed d-flex">
           <div className="hb-info">
-            <a href="tel:+04 6545-9535-6515">{conctInfo.phone}</a>
-            <a href="mailto:mail%20to:ibthemes21@gmail.com,com">
+            <a href="tel:(+49) 157 3552 3845">{conctInfo.phone}</a>
+            <a href="mailto:mail%20to:tuhin.mllk@gmail.com,com">
               {conctInfo.email}
             </a>
           </div>
@@ -80,7 +80,7 @@ const Slider = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
+                    href="img/resume.pdf"
                     download
                   >
                     {sliderContent.btnText}
