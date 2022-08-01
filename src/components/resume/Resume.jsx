@@ -42,12 +42,12 @@ const resumeContent = [
 
 const educatonContent = [
   {
-    passingYear: "October 2020 – September 2023",
+    passingYear: "September 2023 - October 2020",
     degreeTitle: "Master degree in Computational Engineering",
     instituteName: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
   },
   {
-    passingYear: "Februrary 2022 – September 2023",
+    passingYear: "September 2023 - Februrary 2022",
     degreeTitle: " Double Master degree in Computational Sciences",
     instituteName: " Università della Svizzera italiana USI, Lugano, Switzerland",
   },
