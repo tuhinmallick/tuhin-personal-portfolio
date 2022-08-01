@@ -42,13 +42,13 @@ const resumeContent = [
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
+    passingYear: "October 2020 – September 2023",
+    degreeTitle: "Double Master degree in Computational Science",
     instituteName: "University Of Evil Doing",
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
+    passingYear: "July 2014 - July 2018",
+    degreeTitle: "Bachelor's degree in Mechanical Engineering",
     instituteName: "World University",
   },
   {
