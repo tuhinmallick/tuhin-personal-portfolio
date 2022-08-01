@@ -66,22 +66,22 @@ Overall, Tuhin was a great asset in our data science team.`,
       designation: "Solution Engineer at LabVantage Solutions, Inc",
       designationLink: "https://www.labvantage.com/",
     },
-    {
-      imageName: "team-2",
-      desc: ` Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
-      reviewerName: "Jara Afsari",
-      designation: "CEO at ib-themes",
-    },
-    {
-      imageName: "team-4",
-      desc: ` Lorem Ipsum is simply dummy text of the printing and
-      typesetting industry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s.`,
-      reviewerName: "Janiaya kiaram",
-      designation: "Visual Designer",
-    },
+//     {
+//       imageName: "team-2",
+//       desc: ` Lorem Ipsum is simply dummy text of the printing and
+//       typesetting industry. Lorem Ipsum has been the industry's
+//       standard dummy text ever since the 1500s.`,
+//       reviewerName: "Jara Afsari",
+//       designation: "CEO at ib-themes",
+//     },
+//     {
+//       imageName: "team-4",
+//       desc: ` Lorem Ipsum is simply dummy text of the printing and
+//       typesetting industry. Lorem Ipsum has been the industry's
+//       standard dummy text ever since the 1500s.`,
+//       reviewerName: "Janiaya kiaram",
+//       designation: "Visual Designer",
+//     },
   ];
 
   return (
