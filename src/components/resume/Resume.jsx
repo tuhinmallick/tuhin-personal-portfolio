@@ -43,18 +43,18 @@ const resumeContent = [
 const educatonContent = [
   {
     passingYear: "October 2020 – September 2023",
-    degreeTitle: "Double Master degree in Computational Science",
-    instituteName: "University Of Evil Doing",
+    degreeTitle: "Master degree in Computational Engineering",
+    instituteName: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
   },
   {
-    passingYear: "July 2014 - July 2018",
-    degreeTitle: "Bachelor's degree in Mechanical Engineering",
-    instituteName: "World University",
+    passingYear: "Februrary 2022 – September 2023",
+    degreeTitle: " Double Master degree in Computational Sciences",
+    instituteName: " Università della Svizzera italiana USI, Lugano, Switzerland",
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    passingYear: "July 2018 – August 2014",
+    degreeTitle: " Bachelor's degree in Mechanical Engineering",
+    instituteName: "Heritage Institute of Technology, Kolkata, India",
   },
 ];
 
