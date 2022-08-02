@@ -39,7 +39,7 @@ const resumeContent = [
   {
     jobPosition: `ASSISTANT SYSTEM ENGINEER & WEB DEVELOPERt`,
     jobType: `Kolkata, India | Onsite`,
-    jobDuration: `February 2021 – August 2021`,
+    jobDuration: `November 2018 – September 2020`,
     timeDuraton: `Full Time`,
     compnayName: "Tata Consultancy Services Limited",
     jobDescription: ` 
