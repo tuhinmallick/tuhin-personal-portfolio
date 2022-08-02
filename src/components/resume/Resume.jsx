@@ -54,21 +54,21 @@ const educatonContent = [
     degreeTitle: "Master degree in Computational Engineering",
     instituteName: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
     courseLink: "https://www.ce.studium.fau.eu/",
-    courseLink: "https://www.inf.usi.ch/en/practical-information/courses-and-study-plans/double-degree/friedrich-alexander-universitat",
+    courseLink: "https://www.fau.eu/",
   },
   {
     passingYear: "September 2023 - Februrary 2022",
     degreeTitle: " Double Master degree in Computational Sciences",
     instituteName: " Università della Svizzera italiana USI, Lugano, Switzerland",
     courseLink: "https://www.inf.usi.ch/en/practical-information/courses-and-study-plans/double-degree/friedrich-alexander-universitat",
-    courseLink: "https://www.inf.usi.ch/en/practical-information/courses-and-study-plans/double-degree/friedrich-alexander-universitat",
+    instituteLink: "https://www.usi.ch/en",
   },
   {
     passingYear: "July 2018 – August 2014",
     degreeTitle: " Bachelor's degree in Mechanical Engineering",
     instituteName: "Heritage Institute of Technology, Kolkata, India",
     courseLink: "https://heritageit.edu/ME.aspx",
-    courseLink: "https://heritageit.edu/index.aspx",
+    instituteLink: "https://heritageit.edu/index.aspx",
   },
 ];
 
