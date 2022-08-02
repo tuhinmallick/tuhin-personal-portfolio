@@ -27,16 +27,13 @@ const resumeContent = [
     labore et dolore magna aliqua.`,
   },
   {
-    jobPosition: `Animation Artist`,
-    jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
+    jobPosition: `ASSISTANT SYSTEM ENGINEER & WEB DEVELOPERt`,
+    jobType: `Java | Kolkata, India`,
+    jobDuration: `November 2018 – September 2020`,
     timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "Tata Consultancy Services Limited",
+    jobDescription: ` • Development and logic building in java using frameworks like struts2 and spring and SQL query generation
+    • Developing web pages along the UI layout and front-end programming with validations using jQuery`,
   },
 ];
 
