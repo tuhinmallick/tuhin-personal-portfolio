@@ -54,7 +54,7 @@ const educatonContent = [
     degreeTitle: "Master degree in Computational Engineering",
     instituteName: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
     courseLink: "https://www.ce.studium.fau.eu/",
-    courseLink: "https://www.fau.eu/",
+    instituteLink: "https://www.fau.eu/",
   },
   {
     passingYear: "September 2023 - Februrary 2022",
