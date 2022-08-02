@@ -4,7 +4,7 @@ import Skills from "../skills/Skills";
 const resumeContent = [
   {
     jobPosition: `Data Scientist`,
-    jobType: `BASF | Mannheim, Germany`,
+    jobType: `Mannheim, Germany | Onsite`,
     jobDuration: `Nov 2021 - August 2022`,
     timeDuraton: `Intern`,
     compnayName: "Chemovator GmbH",
@@ -28,7 +28,7 @@ const resumeContent = [
   },
   {
     jobPosition: `ASSISTANT SYSTEM ENGINEER & WEB DEVELOPERt`,
-    jobType: `Java | Kolkata, India`,
+    jobType: `Kolkata, India | Onsite`,
     jobDuration: `November 2018 – September 2020`,
     timeDuraton: `Full Time`,
     compnayName: "Tata Consultancy Services Limited",
