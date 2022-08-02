@@ -8,23 +8,20 @@ const resumeContent = [
     jobDuration: `Nov 2021 - August 2022`,
     timeDuraton: `Intern`,
     compnayName: "Chemovator GmbH",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    jobDescription: `• Implemented MlOps through MlFlow which allowed automated model development lifecycle and reduced time for model reproduction by 25%.
+    • Demystified AI black box model by implementing explainable AI through feature importance and SHAP
+• Implemented stacked ensemble and improved model accuracy by 17% by using Meta-Learning.
+• Implemented back testing algorithm through walk-forward validation which helped client gained confidence of the model stability and accuracy
+• Implemented bootstrapping confidence interval and automated hyperparameter optimization through HyperOpt which increased model accuracy by 31%`,
   },
   {
-    jobPosition: `Visual Designer`,
-    jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
+    jobPosition: `Computer vision research assistant`,
+    jobType: `Erlangen, Germany | Onsite`,
+    jobDuration: `February 2021 – November 2021`,
     timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    compnayName: "Institute of Factory Automation and Production Systems",
+    jobDescription: `• Automated screw separation, using PyTorch and Deep Object Pose Estimation (DOPE) with YOLO to determine 6-DoF screw in the load carrier.
+• Generate synthetic training data sets using the Unreal Engine (UE4) and NVidia Deep Learning Data Synthesizer (NDDS).`,
   },
   {
     jobPosition: `Machine learning research assistant`,
@@ -37,13 +34,13 @@ const resumeContent = [
     • Deliver accuracies of up to 90% for the writer dependent task and 83% for the writer independent task for uppercase letters`,
   },
   {
-    jobPosition: `ASSISTANT SYSTEM ENGINEER & WEB DEVELOPERt`,
+    jobPosition: `Java web developer`,
     jobType: `Kolkata, India | Onsite`,
     jobDuration: `November 2018 – September 2020`,
     timeDuraton: `Full Time`,
     compnayName: "Tata Consultancy Services Limited",
     jobDescription: ` 
-    • Development and logic building in java using frameworks like struts2 and spring and SQL query generation
+    • Development and logic building in java using frameworks like struts2 and spring and SQL query generation 
     • Developing web pages along the UI layout and front-end programming with validations using jQuery`,
   },
 ];
