@@ -27,12 +27,23 @@ const resumeContent = [
     labore et dolore magna aliqua.`,
   },
   {
+    jobPosition: `Machine learning research assistant`,
+    jobType: ` Erlangen, Germany | Onsite`,
+    jobDuration: `Mar 2020 - Present`,
+    timeDuraton: `Part Time`,
+    compnayName: "Machine Learning and Data Analytics (MaD) Lab",
+    jobDescription: `
+    • Online handwriting recognition of IMU-enhanced ballpoint pens with machine learning
+    • Deliver accuracies of up to 90% for the writer dependent task and 83% for the writer independent task for uppercase letters`,
+  },
+  {
     jobPosition: `ASSISTANT SYSTEM ENGINEER & WEB DEVELOPERt`,
     jobType: `Kolkata, India | Onsite`,
-    jobDuration: `November 2018 – September 2020`,
+    jobDuration: `February 2021 – August 2021`,
     timeDuraton: `Full Time`,
     compnayName: "Tata Consultancy Services Limited",
-    jobDescription: ` • Development and logic building in java using frameworks like struts2 and spring and SQL query generation
+    jobDescription: ` 
+    • Development and logic building in java using frameworks like struts2 and spring and SQL query generation
     • Developing web pages along the UI layout and front-end programming with validations using jQuery`,
   },
 ];
