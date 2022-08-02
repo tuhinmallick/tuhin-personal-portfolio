@@ -50,21 +50,21 @@ const resumeContent = [
 
 const educatonContent = [
   {
-    passingYear: "September 2023 - October 2020",
+    passingYear: " October 2020 - Present",
     degreeTitle: "Master degree in Computational Engineering",
     instituteName: "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
     courseLink: "https://www.ce.studium.fau.eu/",
     instituteLink: "https://www.fau.eu/",
   },
   {
-    passingYear: "September 2023 - Februrary 2022",
+    passingYear: "Februrary 2022 - Present",
     degreeTitle: " Double Master degree in Computational Sciences",
     instituteName: " Università della Svizzera italiana USI, Lugano, Switzerland",
     courseLink: "https://www.inf.usi.ch/en/practical-information/courses-and-study-plans/double-degree/friedrich-alexander-universitat",
     instituteLink: "https://www.usi.ch/en",
   },
   {
-    passingYear: "July 2018 – August 2014",
+    passingYear: "August 2014 - July 2018 ",
     degreeTitle: " Bachelor's degree in Mechanical Engineering",
     instituteName: "Heritage Institute of Technology, Kolkata, India",
     courseLink: "https://heritageit.edu/ME.aspx",
