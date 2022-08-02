@@ -55,8 +55,8 @@ He always provided a fresh take on data science having a wealth of knowledge of 
 Overall, Tuhin was a great asset in our data science team.`,
       reviewerName: "Dr. Pascal Ochs",
       reviewerLink: "https://www.linkedin.com/in/pascalochs/",
-      designation: "Data Scientist & Product Manager at Forecasty.AI",
-      designationLink: "https://forecasty.ai/teams/",
+      designation: "Senior consultant at Grant Thornton AG",
+      designationLink: "https://www.grantthornton.de/en/",
     },
     {
       imageName: "Sumanto dutta chowdhury",
