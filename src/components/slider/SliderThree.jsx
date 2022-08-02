@@ -133,8 +133,8 @@ const SliderTwo = () => {
                   <TextLoop>
                     <p className="loop-text lead">Data Scientist</p>
                     <p className="loop-text lead">Machine Learning Engineer</p>
-                    <p className="loop-text lead"> Web Developer</p>
-                    <p className="loop-text lead"> Agile Coach</p>
+                    <p className="loop-text lead">Java Web Developer</p>
+                    <p className="loop-text lead">Agile Coach</p>
                   </TextLoop>
                 </div>
                 <p
