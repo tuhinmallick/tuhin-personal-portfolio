@@ -35,8 +35,7 @@ const ServiceContent = [
   {
     icon: "icon-target",
     title: "Agile coach",
-    descriptions: `I utilize AWS and Azure to develop and productionize machine learning systems. And to parallelize
-    I used HIVE, Hadoop and Spark.`,
+    descriptions: `Having both perseverance and the willingness to compromise I know how to use my excellent organizational skills to lead teams to high productivity. An agile mindset helps me to execute tasks efficiently and on time and even more important: With enthusiasm, passion and personal heartiness.`,
   },
 
 ];
