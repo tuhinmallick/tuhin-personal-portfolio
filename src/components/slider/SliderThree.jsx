@@ -6,7 +6,7 @@ const sliderContent = {
   name: "Tuhin Mallick",
   description: ` My job is to help others make the right decision - data driven decisions. Finding patterns nobody else sees is the challenge to me.`,
   btnText: " Download CV",
-  btnText2: "   My Portfolio   ",
+  btnText2: "   My  Portfolio   ",
 };
 
 const SliderTwo = () => {
