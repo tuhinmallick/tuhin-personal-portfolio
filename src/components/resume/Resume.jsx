@@ -3,6 +3,18 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
+    jobPosition: `Master Thesis student`,
+    jobType: `Mannheim, Germany | Onsite`,
+    jobDuration: `Sep 2022 - Present`,
+    timeDuraton: `Fulltime`,
+    compnayName: "Image Data Exploration and Analysis Lab",
+    jobDescription: `• Implemented MlOps through MlFlow which allowed automated model development lifecycle and reduced time for model reproduction by 25%.
+    • Demystified AI black box model by implementing explainable AI through feature importance and SHAP
+• Implemented stacked ensemble and improved model accuracy by 17% by using Meta-Learning.
+• Implemented back testing algorithm through walk-forward validation which helped client gained confidence of the model stability and accuracy
+• Implemented bootstrapping confidence interval and automated hyperparameter optimization through HyperOpt which increased model accuracy by 31%`,
+  },
+  {
     jobPosition: `Data Scientist`,
     jobType: `Mannheim, Germany | Onsite`,
     jobDuration: `Nov 2021 - August 2022`,
