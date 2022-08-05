@@ -22,7 +22,7 @@ const AboutTwo = () => {
                 {/* End img */}
                 <div className="info">
                   <p>Data Science Generalist</p>
-                  <h6>Tuhin Mallick</h6>
+                  <h1>Tuhin Mallick</h1>
                 </div>
                 {/* End info */}
               </div>
