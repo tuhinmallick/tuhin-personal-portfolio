@@ -65,7 +65,7 @@ const AboutTwo = () => {
                   Better?
                   </p>
                  </div>
-                <div className="info-list">
+                {/* <div className="info-list">
                   <div className="row">
                     <div className="col-sm-6">
                       <ul>
@@ -108,7 +108,7 @@ const AboutTwo = () => {
                       </ul>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             {/* End col */}
