@@ -2,14 +2,14 @@ import React from "react";
 
 const ServiceContent = [
   {
-    icon: "icon-home",
+    icon: "icon-search",
     title: "Machine Learning",
     descriptions: `Need to make predictions based on historical data? Or want to explore your data for certain patterns?
     I am passionate about learning the theory that is pushing the cutting edge of ML, 
     both supervised and unsupervised algorithms. `,
   },
   {
-    icon: "icon-desktop",
+    icon: "icon-linegraph",
     title: "Data Science and analysis",
     descriptions: `A picture says more than a thousand words..but what exactly do you want to visualize?
     I have seen a lot of examples of very good bus also very bad visualizations. `,
