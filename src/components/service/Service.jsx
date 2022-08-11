@@ -15,7 +15,7 @@ const ServiceContent = [
     I have seen a lot of examples of very good bus also very bad visualizations. `,
   },
   {
-    icon: "icon-target",
+    icon: "icon-genius",
     title: "Full-stack web developer",
     descriptions: `As a web developer, I help to design and create the fast and responsive website for starters and freelancers. 
     I made this website with React and hosted it through heroku.`,
@@ -27,13 +27,13 @@ const ServiceContent = [
     I used HIVE, Hadoop and Spark.`,
   },
   {
-    icon: "icon-target",
+    icon: "icon-gears",
     title: "Devops",
     descriptions: `I utilize AWS and Azure to develop and productionize machine learning systems. And to parallelize
     I used HIVE, Hadoop and Spark.`,
   },
   {
-    icon: "icon-target",
+    icon: "icon-presentation",
     title: "Agile coach",
     descriptions: `An agile mindset helps me to execute tasks efficiently and on time and even more important: With enthusiasm, passion and personal heartiness.`,
   },
