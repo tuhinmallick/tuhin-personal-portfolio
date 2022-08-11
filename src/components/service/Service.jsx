@@ -29,7 +29,7 @@ const ServiceContent = [
   {
     icon: "icon-gears",
     title: "Devops",
-    descriptions: `I am DevOps engineer looking for challenges in setting up automated architectures and solving complex problems such as realtime data processing, continuous integration, centralized logging, cloud monitoring, and Big Data processing.`,
+    descriptions: `I am always looking for challenges in setting up automated architectures and solving complex problems such as realtime data processing, continuous integration, centralized logging, cloud monitoring, and Big Data processing.`,
   },
   {
     icon: "icon-presentation",
