@@ -21,7 +21,7 @@ const ServiceContent = [
     I made this website with React and hosted it through heroku.`,
   },
   {
-    icon: "icon-target",
+    icon: "icon-cloud",
     title: "Cloud and Parallel Computing",
     descriptions: `I utilize AWS and Azure to develop and productionize machine learning systems. And to parallelize
     I used HIVE, Hadoop and Spark.`,
