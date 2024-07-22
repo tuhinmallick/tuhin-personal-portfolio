@@ -37,7 +37,7 @@
     "simple-react-lightbox": "^3.6.6",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^1.0.1",
-    "react-tsparticles": "^2.0.0" // Add this dependency
+    "react-tsparticles": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
@@ -66,6 +66,6 @@
     ]
   },
   "engines": {
-    "node": "20.x" // Update to Node.js 20.x
+    "node": "20.x"
   }
 }
